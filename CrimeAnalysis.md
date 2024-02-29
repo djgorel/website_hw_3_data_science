@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The analysis  completed here dove into crime within Los Angeles in the past 4 years, seeking to find underlying trends. It uncovred a plethora of interesting things, namely that the COVID 19 Pandemic seemed to have an impact on the crime rate, along with the fact that different types of crimes occured in different proportions based on the area of Los Angeles. These discoveries, as well as others, are supported through graphs displayed on this website. Not all of the questions set out to be answered were easily discovered, yet many interesting takeaways were yeilded from the analysis.
+The analysis completed here dove into crime within Los Angeles in the past 4 years, seeking to find underlying trends. It uncovered a plethora of interesting things, namely that the COVID 19 Pandemic seemed to have an impact on the crime rate, along with the fact that different types of crimes occurred in different proportions based on the area of Los Angeles. These discoveries, as well as others, are supported through graphs displayed on this website. Not all of the questions set out to be answered were easily discovered, yet many interesting takeaways were yielded from the analysis.
 
 ## Dataset
 
@@ -22,7 +22,7 @@ The draw of this data to me initially was that it was a rather robust dataset on
 - Did the pandemic see a fall in physical based crimes? 
 
 As I worked with the data, I came up with several more questions, partly because of the answers to my initial questions, and some due to difficulty handling the data. For example,
-the crime categories were rather difficult to seperate into strictly physical and non physical crimes, so I ended up scrapping that question. Yet as I saw the trend in crime rate over time, I generalized the question on physical crimes to see if the pandemic seemed to affect crime rate at all. I also found that the data contained many null entries concerning weapon data, so I restructured my question to see which weapons were most common when used. Other questions I came up with included:
+the crime categories were rather difficult to separate into strictly physical and non physical crimes, so I ended up scrapping that question. Yet as I saw the trend in crime rate over time, I generalized the question on physical crimes to see if the pandemic seemed to affect crime rate at all. I also found that the data contained many null entries concerning weapon data, so I restructured my question to see which weapons were most common when used. Other questions I came up with included:
 - Were the types of crimes proportionally distributed throughout parts of the city?
 - How long did theft crimes typically take to be reported?
 - Were victim demographics proportionate throughout the different areas?
@@ -35,10 +35,10 @@ The first thing I examined was the breakdown of crime locations, and examined it
 
 After looking at the graph, I saw that the crimes were fairly evenly dispersed. I didn't include every area due to space limitations, so as to make it easy to visualize, but every area had similar amounts overall.
 
-The next thing I wanted to look at was the types of locations, or premises, upon which each crime occurred, such as a store or house. I generated a graph of the top ten premises at which crimes occured, producing the following pie chart.
+The next thing I wanted to look at was the types of locations, or premises, upon which each crime occurred, such as a store or house. I generated a graph of the top ten premises at which crimes occurred, producing the following pie chart.
 ![alt text](premise_breakdown.png)
 
-This graph showed a clear result, that being that the majority of crimes occured on the street and in single family dwellings by a large margin. Knowing that these were the leading two premises at which crimes occurred, I wanted to further break down the areas crimes were committed in specifically at these two premises, producing the following graph.
+This graph showed a clear result, that being that the majority of crimes occurred on the street and in single family dwellings by a large margin. Knowing that these were the leading two premises at which crimes occurred, I wanted to further break down the areas crimes were committed in specifically at these two premises, producing the following graph.
 
 ![alt text](street_crime_per_area.png)
 
@@ -50,17 +50,17 @@ While looking at areas, I was also curious about if there were common patterns a
 
 ![alt text](Area's_Victim_Counts.png)
 
-I had expected that male and female victims would likely be similar in each area, or that at the least each district would have a similar patter. However, it ending up varying widely between districts, with each area having a significant difference in the amount of male and female victims, yet some had far more males, and others far more female victims.
+I had expected that male and female victims would likely be similar in each area, or that at the least each district would have a similar pattern. However, it ended up varying widely between districts, with each area having a significant difference in the amount of male and female victims, yet some had far more males, and others far more female victims.
 
 The next big question I wanted to tackle was if crime had been rising or falling in recent years, and I wanted to explore trends within there. I generated a bar graph of the total crime rates from 2020 to 2023.
 
 ![alt text](Did_total_Crimes_stay_constant_each_year.png)
 
-The graph showed me that there did seem to be an increase in crime from 2020 to 2022, before stabalizing relatively in 2023. Upon examining this, I noticed that the increase seemed to correlate with the timing in which we came out of the COVID-19 pandemic, and wondered if there was a correlation between the pandemic and crime rate. Thus, I generated a new bar graph where I expanded to look at the crime count for each quarter of the years.
+The graph showed me that there did seem to be an increase in crime from 2020 to 2022, before stabilizing relatively in 2023. Upon examining this, I noticed that the increase seemed to correlate with the timing in which we came out of the COVID-19 pandemic, and wondered if there was a correlation between the pandemic and crime rate. Thus, I generated a new bar graph where I expanded to look at the crime count for each quarter of the years.
 
 ![alt text](Did_the_Pandemic_influence_crime_rate.png)
 
-The result of this graph spoke volumes. The COVID-19 pandemic hit America in early 2020, before practically shutting down the country starting in March 2020. The pandemic continued to have strong lockdown impacts, with cases peaking around January 2021. However, by early 2021 the vaccine was released, and restrictions started to be lifted on lockdown as more of society got vaccinated. Looking at this graph, we see that crime rate started falling progressively throughout 2020, and reached a bottom point around early 2021. It then began rising in Q2 of 2021, before significantly rising back to levels similar to those found in 2022 and 2023 in Q3 and Q4 of 2021. In otherwords, crime fell as the pandemic took hold, and then bounced back to higher amounts as soon as the lockdown went back. While the plummet was not huge, it is clear that the pandemic's social distancing had a watershed effect on decreasing crime.
+The result of this graph spoke volumes. The COVID-19 pandemic hit America in early 2020, before practically shutting down the country starting in March 2020. The pandemic continued to have strong lockdown impacts, with cases peaking around January 2021. However, by early 2021 the vaccine was released, and restrictions started to be lifted on lockdown as more of society got vaccinated. Looking at this graph, we see that the crime rate started falling progressively throughout 2020, and reached a bottom point around early 2021. It then began rising in Q2 of 2021, before significantly rising back to levels similar to those found in 2022 and 2023 in Q3 and Q4 of 2021. In other words, crime fell as the pandemic took hold, and then bounced back to higher amounts as soon as the lockdown went back. While the plummet was not huge, it is clear that the pandemic's social distancing had a watershed effect on decreasing crime.
 
 Further digging into time, the graph below examines if certain days of the week had more crime, by totalling the crimes committed on weekdays over the past 4 years.
 
@@ -91,4 +91,6 @@ Throughout this project I came to multiple conclusions. The largest conclusion I
 ## Sources
 
 The source I utilized was the dataset, as well as general geographical information about Los Angeles.
+Dataset: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+
 
