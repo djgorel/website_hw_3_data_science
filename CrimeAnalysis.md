@@ -41,7 +41,8 @@ The next thing I wanted to look at was the types of locations, or premises, upon
 This graph showed a clear result, that being that the majority of crimes occured on the street and in single family dwellings by a large margin. Knowing that these were the leading two premises at which crimes occurred, I wanted to further break down the areas crimes were committed in specifically at these two premises, producing the following graph.
 
 ![alt text](street_crime_per_area.png)
-![alt text](house_per_area.png)
+
+![alt text](house_crime_per_area.png)
 
 Examining these 2 different plots shows somewhat surprising results at first. While the street crime is fairly similar to the original area pie chart in the proportions of crime each area takes up, the housing one is significantly different, especially with regards to Central. Central was the area with the most crime counts in the general crime plot, but has less than 1000 counts of crimes at single family dwellings. This led me to hypothesize that the Central area may be a primarily commercial district rather than residential, as that would explain why it had so many fewer residential crimes. At the same time, it would imply that since Central LA has the most crimes overall, it has a much higher proportion of crimes at business locations than the other districts, and those may make up the majority of the crimes.
 
@@ -78,16 +79,16 @@ When looking through the crimes, I saw that there were many different categories
 ![alt text](Reporting_Time_for_Theft.png)
 
 
+This gave interesting insights. While many of the crimes that took a long time to discover were things that I expected, such as embezzlement or identity theft, I was surprised to see that there was a type of Grand Theft Auto Repair that took so long to report on average. Overall, most of the types of thefts that occurred here were thefts that did not occur physically, but rather through forgery, or stealing from a company.
 
-
-
-Images should be large and easy to see and interperate. 
-Captions underneath should be 20-70 words long.
 
 ## Conclusion
 
 Final summary of the data and what you found during this project.
 
+Throughout this project I came to multiple conclusions. The largest conclusion I arrived at was the COVID-19 pandemic caused a fall in crimes, likely due to people being on lockdown. I also came to the conclusion that while crimes generally occurred the same amount in each area, the types of crimes did not occur proportionately within each area. In addition, I discovered that the majority of crimes do not use weapons and often occur on the street, and that many crimes of theft can go unnoticed for almost a month.
+
 ## Sources
 
-Did any sources help you understand your data better? Make sure to cite them.
+The source I utilized was the dataset, as well as general geographical information about Los Angeles.
+
