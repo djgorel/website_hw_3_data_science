@@ -1,5 +1,5 @@
 # Analysis of Los Angeles Crime Data
-### Devon Gorel
+### By: Devon Gorel
 
 ## Introduction
 
@@ -30,6 +30,8 @@ the crime categories were rather difficult to seperate into strictly physical an
 The data was fairly easy to work with, as it was very well structured. The largest challenge I encountered was simply having to filter out empty or null data when examining certain fields, yet this was fairly simple. I was fairly surprised by the takeaways of some of the charts I constructed, such as the weapon chart and average reporting time chart.
 
 ## Discoveries & Insights
+The first thing I examined was the breakdown of crime locations.
+![alt text](crime per area.png)
 
 Images should be large and easy to see and interperate. 
 Captions underneath should be 20-70 words long.
