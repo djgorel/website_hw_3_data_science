@@ -1,0 +1,45 @@
+# Analysis of Los Angeles Crime Data
+### Devon Gorel
+
+## Introduction
+
+- What is the core discovery you made, the most interesting thing that you can describe with this data? 
+- What will your supporting arguments be for your discovery?
+
+## Dataset
+
+Describe your data set, including a link to the data. 
+- What is this data about?
+- Who collected or produced this dataset? Why?
+- Why are you interested in it?
+
+The data set analyzed within this website contains data on crimes committed within Los Angeles from the year 2020 until now. 
+It was collected by the Police Department of the City of Los Angeles, and contains thorough entries on each crime, including the date, type of crime, victim demographic, weapons used, and the location.
+I was interested in the data because I thought it could provide a small yet thorough examination of crime over the past four years, and examine trends regarding it. For example, what crimes
+occurred the most, if certain locations were more common for certain crimes, and if there was a trend on when crimes tended to occur.
+
+## Initial Questions
+
+- What initially drew you to this data? 
+- What were you currious about? 
+
+    QUESTION 1
+    QUESTION 2
+    QUESTION 3
+  
+- What questions came up as you worked with the data? 
+- Was there anything that surprised you about the data?
+- Was it easy to work with or did you have to clean or "wrangle" the data?
+
+## Discoveries & Insights
+
+Images should be large and easy to see and interperate. 
+Captions underneath should be 20-70 words long.
+
+## Conclusion
+
+Final summary of the data and what you found during this project.
+
+## Sources
+
+Did any sources help you understand your data better? Make sure to cite them.
